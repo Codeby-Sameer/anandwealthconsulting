@@ -4,10 +4,7 @@ import { HomeRoutes } from './routes/HomeRoutes';
 
 
 function App() {
-  return<>
-  
-  <HomeRoutes/>
-  </>
+  return<><HomeRoutes/></>
 }
 
 export default App;
